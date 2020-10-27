@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 19552,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-windows-azure-virtual-machine-with-two-data-disks/master/Add-DataDisksToVM.ps1",
+    "DownloadCount": 3439,
+    "Id": "Create-a-Windows-Azure-ec901cbe",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 264,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates a Virtual Machine (small) configured with two data disks.  After the Virtual Machine is provisioned and running, the data disks are then formatted and drive letters assigned.  User is prompted for credentials to use to provision the new Virtual Machine.",
+    "Title": "Deploy a Windows Azure Virtual Machine with Two Data Disks",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-a-windows-azure-virtual-machine-with-two-data-disks",
+    "UserTags": "Provisioning"
+}
